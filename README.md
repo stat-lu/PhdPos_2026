@@ -1,29 +1,58 @@
-<figure style="text-align: center">
-<img src="sd.png" alt="TEXT HERE" style="width: 100%;">
-  <figcaption> The uncertainty of a latent Gaussian process, given observations (circles).</figcaption>
-</figure>
+![Quantile regression GWAS example: G6PC2 locus in UKBB. Locus zoom plots for Regenie.QRS and Regenie, with quantile-specific effect sizes for rs13431652.](Quantile_image.jpg)
+
+*Quantile-regression GWAS can reveal heterogeneous genetic effects. In this example, rs13431652 at the **G6PC2** locus has stronger effects at lower quantiles of glucose levels than at higher quantiles, while a mean-based analysis reports a single average effect.*
 
 ## Ph.D. Position
-We invite applications for a fully funded PhD position with a project on optimal design for Gaussian processes. The goal is to develop methods for the optimal placement of sample locations in space and time. An application will be to create a sampling scheme for acquiring knowledge about AMR and plastic distribution in the aquatic environment in the Philippines and Italy. The position is at Lund University, Sweden, and the coordinator is [Jonas Wallin](https://jonaswallin.github.io/). The project is in close collaboration with [Climate-Sensitive Infectious Diseases lab](https://csidlab.iwr.uni-heidelberg.de/index.html) at the University of Heidelberg, Germany.
 
+We invite applications for a fully funded PhD position in statistics with a project on **Quantile Regression Models for Genetic Discovery and Phenotype Prediction**. The goal is to develop scalable statistical and computational tools for modern genome-wide association studies (GWAS) and polygenic risk score (PRS) prediction. The overall aim is to move beyond standard mean-based models and develop quantile-regression methods that can detect heterogeneous genetic effects and predict the full conditional distribution of complex phenotypes.
 
-
+The position is at **Lund University**, Sweden, in the **Department of Statistics** at Lund University School of Economics and Management. The coordinator is [Jonas Wallin](https://jonaswallin.github.io/).
 
 ## Project Description
-The design of any scientific investigation involves many considerations. When one is interested in experiments in nature, or any geographical data, it is often crucial at what location the measurements are conducted. Further the optimal locations are often different if one is interested in inference (understanding the relation between variables) or prediction. The statistical theory of where to optimally place locations falls under the subject of optimal design [3]. One of the most important processes to describe spatial data is Gaussian processes, which generate continuous random fields. Gaussian processes can defined both on regular Euclidean domain [3], river networks, or other complex topologies which were explored in the recent works [1,2] and implemented in package [4]. The Figure at the top shows the uncertainty in a Gaussian process after making observations, an optimal design question would be where to place the next observations to minimize the uncertainty.
-In this project, we are both interested in exploring both theoretical and practical questions. The theoretical questions are for instance what characteristic of the random fields are most important for the adaptive design, and how to find algorithms that either place the location optimally or approximately with theoretical bounds on the errors. How does one build Gaussian models that are both on rivers and oceans situationally? Practical applications will use the information in setting up an adaptive design, together with the Heidelberg group, that will be utilized to determine at what location should one measure AMR and plastic in the rivers and oceans. 
+
+Genome-wide association studies and polygenic risk score models are central tools in statistical genetics, but most standard approaches are based on linear models for the phenotypic mean. Such models are powerful and interpretable, but they can miss genetic effects that vary across the phenotype distribution, for example effects that are stronger among individuals in the lower or upper tail of a biomarker distribution.
+
+Quantile regression offers a principled way to study these heterogeneous genetic effects. Instead of modeling only the mean of a trait, quantile regression models how genetic variants influence different parts of the conditional phenotype distribution. This is useful both for genetic discovery and for phenotype prediction, where one may want prediction intervals or tail-probability risk summaries rather than only a point prediction.
+
+Recent work on **Regenie.QRS** shows that whole-genome quantile regression can be made computationally efficient at biobank scale, while accounting for genetic structure and related individuals. In applications to the UK Biobank and ProgeNIA/SardiNIA, quantile-regression methods have been used to identify and characterize heterogeneous genetic effects that are not visible from a conventional mean-based analysis alone [1].
+
+In this project, we are interested in both theoretical and practical questions. The theoretical questions include how to construct valid and powerful quantile-regression tests and prediction methods in high-dimensional genetic data, how to handle population structure and relatedness, and how to quantify uncertainty in the tails of the phenotype distribution. The practical questions include how to make these methods scalable to modern biobank data and how to implement them in user-friendly software.
+
+The doctoral student is expected to contribute to one or more of the following themes:
+
+* developing scalable quantile-regression methods for biobank-scale GWAS with population structure and/or related individuals;
+* constructing quantile-regression-based PRS methods that provide prediction intervals and tail-probability risk summaries;
+* developing computational strategies such as screening rules, ADMM-based optimization, mixed-model approximations, and conformalized prediction intervals;
+* implementing user-friendly software, preferably as open-source tools in R and/or Python.
+
+The project builds on recent work on whole-genome quantile regression at biobank scale [1], feature-splitting algorithms for ultra-high-dimensional quantile regression [2], and integrated quantile rank testing for gene-level associations [3].
 
 #### The candidate
 
-We are looking for a student that fits the following criteria
-  * MSc in mathematics, statistics, computer science, biostatistics, or physics 
-  * Some experience programming skills (python, R, C++, etc. )
-  * Some experience in spatial statistics, or numerical linear algebra is meriting.  
+We are looking for a student that fits the following criteria:
+
+* MSc in statistics, mathematics, computer science, biostatistics, bioinformatics, data science, or another relevant quantitative field;
+* strong interest in statistical genetics, high-dimensional statistics, optimization, or machine learning;
+* programming experience in R, Python, C++, or a similar language;
+* experience with genomics, large-scale data analysis, numerical optimization, or open-source software development is meriting;
+* excellent written and oral communication skills in English.
+
+## Application
+
+The formal application should include a personal letter, a curriculum vitae, certified copies of grades and degree certificates, copies of relevant written work such as a Bachelor's or Master's thesis and articles that you have authored or co-authored, and contact information for one reference familiar with your qualifications.
+
+The official application link will be added here: **[APPLICATION LINK]**.
+
+For further information, please contact:
+
+[Jonas Wallin](https://jonaswallin.github.io/)  
+Associate Professor, Department of Statistics, Lund University  
+[jonas.wallin@stat.lu.se](mailto:jonas.wallin@stat.lu.se)
 
 ## References
-1. [D. Bolin, A. Simas, and J. Wallin. Gaussian Whittle-Matérn fields on metric graphs Bernoulli, in press, 2023](https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/57882?confirm=4654b8a6)
-2. [D. Bolin, A. Simas, J. Wallin.  Statistical inference for Gaussian Whittle-Matérn fields on metric graphs, arXiv](https://arxiv.org/abs/2304.10372)
-3. [P. Diggle, E. Giorgi. Model-based geostatistics for global public health](https://www.taylorfrancis.com/books/mono/10.1201/9781315188492/model-based-geostatistics-global-public-health-peter-diggle-emanuele-giorgi)
-4. [Metric Graph packages](https://davidbolin.github.io/MetricGraph/)
 
-<img src="data_krig.png" width="600">
+1. Fan Wang, Chen Wang, Tianying Wang, Marco Masala, Edoardo Fiorillo, Marcella Devoto, Francesco Cucca, and Iuliana Ionita-Laza. *Computationally efficient whole-genome quantile regression at biobank scale*. **Proceedings of the National Academy of Sciences**, 122(50):e2513007122, 2025. <https://doi.org/10.1073/pnas.2513007122>
+
+2. Hanqing Wu, Jonas Wallin, and Iuliana Ionita-Laza. *Scalable Ultra-High-Dimensional Quantile Regression with Genomic Applications*. arXiv:2601.02826, 2026.
+
+3. Tianying Wang, Iuliana Ionita-Laza, and Ying Wei. *Integrated Quantile Rank Test (iQRAT) for Gene-Level Associations*. **The Annals of Applied Statistics**, 16(3):1423-1444, 2022. <https://doi.org/10.1214/21-AOAS1548>
