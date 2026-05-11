@@ -7,6 +7,19 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <style>
+      @media print, screen and (min-width: 960px) {
+        .wrapper {
+          width: 1120px;
+        }
+        header {
+          width: 280px;
+        }
+        section {
+          width: 780px;
+        }
+      }
+    </style>
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
