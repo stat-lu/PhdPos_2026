@@ -6,7 +6,11 @@
 
 We invite applications for a fully funded PhD position in statistics with a project on **Quantile Regression Models for Genetic Discovery and Phenotype Prediction**. The goal is to develop scalable statistical and computational tools for modern genome-wide association studies (GWAS) and polygenic risk score (PRS) prediction. The overall aim is to move beyond standard mean-based models and develop quantile-regression methods that can detect heterogeneous genetic effects and predict the full conditional distribution of complex phenotypes.
 
-The position is at **Lund University**, Sweden, in the **Department of Statistics** at Lund University School of Economics and Management. The coordinator is [Jonas Wallin](https://jonaswallin.github.io/).
+The position is at **Lund University**, Sweden, in the **Department of Statistics** at Lund University School of Economics and Management.
+
+Project homepage: **https://stat-lu.github.io/PhdPos_2026/**
+
+The local supervisor and coordinator is [Jonas Wallin](https://jonaswallin.github.io/). The project is carried out in collaboration with [Iuliana Ionita-Laza](https://www.columbia.edu/~ii2135/) at Columbia University, who will serve as external co-supervisor.
 
 ## Project Description
 
@@ -27,6 +31,8 @@ The doctoral student is expected to contribute to one or more of the following t
 
 The project builds on recent work on whole-genome quantile regression at biobank scale [1], feature-splitting algorithms for ultra-high-dimensional quantile regression [2], and integrated quantile rank testing for gene-level associations [3].
 
+The supervisory team combines local expertise in statistics, computational methods, and high-dimensional modeling at Lund University with external expertise in statistical genetics and high-dimensional omics at Columbia University.
+
 #### The candidate
 
 We are looking for a student that fits the following criteria:
@@ -46,8 +52,16 @@ The official application link will be added here: **[APPLICATION LINK]**.
 For further information, please contact:
 
 [Jonas Wallin](https://jonaswallin.github.io/)  
+Local supervisor and coordinator  
 Associate Professor, Department of Statistics, Lund University  
 [jonas.wallin@stat.lu.se](mailto:jonas.wallin@stat.lu.se)
+
+[Iuliana Ionita-Laza](https://www.columbia.edu/~ii2135/)  
+External co-supervisor  
+Professor of Biostatistics, Department of Biostatistics, Columbia University  
+[ii2135@cumc.columbia.edu](mailto:ii2135@cumc.columbia.edu)  
+Columbia profile: <https://www.publichealth.columbia.edu/profile/iuliana-ionita-laza-phd>  
+Research group: <https://www.publichealth.columbia.edu/research/programs/precision-prevention/research/statistics-genetics-iuliana-ionita-laza>
 
 ## References
 
