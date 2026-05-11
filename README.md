@@ -50,18 +50,20 @@ The formal application should include a personal letter, a curriculum vitae, cer
 
 The official application link will be added here: **[APPLICATION LINK]**.
 
+**Application deadline: 2026-06-05.**
+
 For further information, please contact:
 
-[Jonas Wallin](https://jonaswallin.github.io/)
-Local supervisor and coordinator
-Associate Professor, Department of Statistics, Lund University
+[Jonas Wallin](https://jonaswallin.github.io/)  
+Local supervisor and coordinator  
+Associate Professor, Department of Statistics, Lund University  
 [jonas.wallin@stat.lu.se](mailto:jonas.wallin@stat.lu.se)
 
-[Iuliana Ionita-Laza](https://www.columbia.edu/~ii2135/)
-External supervisor
-Professor of Biostatistics, Department of Biostatistics, Columbia University
-[ii2135@cumc.columbia.edu](mailto:ii2135@cumc.columbia.edu)
-Columbia profile: [https://www.publichealth.columbia.edu/profile/iuliana-ionita-laza-phd](https://www.publichealth.columbia.edu/profile/iuliana-ionita-laza-phd)
+[Iuliana Ionita-Laza](https://www.columbia.edu/~ii2135/)  
+External supervisor  
+Professor of Biostatistics, Department of Biostatistics, Columbia University  
+[ii2135@cumc.columbia.edu](mailto:ii2135@cumc.columbia.edu)  
+Columbia profile: [https://www.publichealth.columbia.edu/profile/iuliana-ionita-laza-phd](https://www.publichealth.columbia.edu/profile/iuliana-ionita-laza-phd)  
 Research group: [https://www.publichealth.columbia.edu/research/programs/precision-prevention/research/statistics-genetics-iuliana-ionita-laza](https://www.publichealth.columbia.edu/research/programs/precision-prevention/research/statistics-genetics-iuliana-ionita-laza)
 
 ## References
