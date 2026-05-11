@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ![Quantile regression GWAS example: G6PC2 locus in UKBB. Locus zoom plots for Regenie.QRS and Regenie, with quantile-specific effect sizes for rs13431652.](Quantile_image.jpg)
 
 *Figure 1. Quantile-regression GWAS example at the **G6PC2** locus in UKBB. The two locus-zoom panels compare Regenie.QRS and mean-based Regenie results, while the rightmost panel shows how the estimated effect size for **rs13431652** varies across quantiles. The effect is stronger at lower and intermediate quantiles and weaker in the upper tail, illustrating heterogeneous genetic effects that a mean-based analysis summarizes as a single average effect.*
