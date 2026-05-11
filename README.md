@@ -8,8 +8,6 @@ We invite applications for a fully funded PhD position in statistics with a proj
 
 The position is at **Lund University**, Sweden, in the **Department of Statistics** at Lund University School of Economics and Management.
 
-Project homepage: **https://stat-lu.github.io/PhdPos_2026/**
-
 The local supervisor and coordinator is [Jonas Wallin](https://jonaswallin.github.io/). The project is carried out in collaboration with [Iuliana Ionita-Laza](https://www.columbia.edu/~ii2135/) at Columbia University, who will serve as external co-supervisor.
 
 ## Project Description
@@ -51,22 +49,20 @@ The official application link will be added here: **[APPLICATION LINK]**.
 
 For further information, please contact:
 
-[Jonas Wallin](https://jonaswallin.github.io/)  
-Local supervisor and coordinator  
-Associate Professor, Department of Statistics, Lund University  
+[Jonas Wallin](https://jonaswallin.github.io/)
+Local supervisor and coordinator
+Associate Professor, Department of Statistics, Lund University
 [jonas.wallin@stat.lu.se](mailto:jonas.wallin@stat.lu.se)
 
-[Iuliana Ionita-Laza](https://www.columbia.edu/~ii2135/)  
-External co-supervisor  
-Professor of Biostatistics, Department of Biostatistics, Columbia University  
-[ii2135@cumc.columbia.edu](mailto:ii2135@cumc.columbia.edu)  
-Columbia profile: <https://www.publichealth.columbia.edu/profile/iuliana-ionita-laza-phd>  
-Research group: <https://www.publichealth.columbia.edu/research/programs/precision-prevention/research/statistics-genetics-iuliana-ionita-laza>
+[Iuliana Ionita-Laza](https://www.columbia.edu/~ii2135/)
+External supervisor
+Professor of Biostatistics, Department of Biostatistics, Columbia University
+[ii2135@cumc.columbia.edu](mailto:ii2135@cumc.columbia.edu)
+Columbia profile: [https://www.publichealth.columbia.edu/profile/iuliana-ionita-laza-phd](https://www.publichealth.columbia.edu/profile/iuliana-ionita-laza-phd)
+Research group: [https://www.publichealth.columbia.edu/research/programs/precision-prevention/research/statistics-genetics-iuliana-ionita-laza](https://www.publichealth.columbia.edu/research/programs/precision-prevention/research/statistics-genetics-iuliana-ionita-laza)
 
 ## References
 
-1. Fan Wang, Chen Wang, Tianying Wang, Marco Masala, Edoardo Fiorillo, Marcella Devoto, Francesco Cucca, and Iuliana Ionita-Laza. *Computationally efficient whole-genome quantile regression at biobank scale*. **Proceedings of the National Academy of Sciences**, 122(50):e2513007122, 2025. <https://doi.org/10.1073/pnas.2513007122>
-
+1. Fan Wang, Chen Wang, Tianying Wang, Marco Masala, Edoardo Fiorillo, Marcella Devoto, Francesco Cucca, and Iuliana Ionita-Laza. *Computationally efficient whole-genome quantile regression at biobank scale*. **Proceedings of the National Academy of Sciences**, 122(50):e2513007122, 2025. [https://doi.org/10.1073/pnas.2513007122](https://doi.org/10.1073/pnas.2513007122)
 2. Hanqing Wu, Jonas Wallin, and Iuliana Ionita-Laza. *Scalable Ultra-High-Dimensional Quantile Regression with Genomic Applications*. arXiv:2601.02826, 2026.
-
-3. Tianying Wang, Iuliana Ionita-Laza, and Ying Wei. *Integrated Quantile Rank Test (iQRAT) for Gene-Level Associations*. **The Annals of Applied Statistics**, 16(3):1423-1444, 2022. <https://doi.org/10.1214/21-AOAS1548>
+3. Tianying Wang, Iuliana Ionita-Laza, and Ying Wei. *Integrated Quantile Rank Test (iQRAT) for Gene-Level Associations*. **The Annals of Applied Statistics**, 16(3):1423-1444, 2022. [https://doi.org/10.1214/21-AOAS1548](https://doi.org/10.1214/21-AOAS1548)
