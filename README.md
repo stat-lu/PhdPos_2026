@@ -64,7 +64,7 @@ External supervisor
 Professor of Biostatistics, Department of Biostatistics, Columbia University  
 [ii2135@cumc.columbia.edu](mailto:ii2135@cumc.columbia.edu)  
 Columbia profile: [https://www.publichealth.columbia.edu/profile/iuliana-ionita-laza-phd](https://www.publichealth.columbia.edu/profile/iuliana-ionita-laza-phd)  
-Research group: [https://www.publichealth.columbia.edu/research/programs/precision-prevention/research/statistics-genetics-iuliana-ionita-laza](https://www.publichealth.columbia.edu/research/programs/precision-prevention/research/statistics-genetics-iuliana-ionita-laza)
+Research group: [https://www.columbia.edu/~ii2135/](https://www.columbia.edu/~ii2135/)
 
 ## References
 
