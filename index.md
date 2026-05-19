@@ -50,7 +50,7 @@ We are looking for a student that fits the following criteria:
 
 The formal application should include a personal letter, a curriculum vitae, certified copies of grades and degree certificates, copies of relevant written work such as a Bachelor's or Master's thesis and articles that you have authored or co-authored, and contact information for one reference familiar with your qualifications.
 
-The official application link will be added here: **[APPLICATION LINK]**.
+Official application link: **[Apply via Varbi](https://lu.varbi.com/en/what:job/jobID:934816/)**.
 
 **Application deadline: 2026-06-05.**
 
